@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/bobbygintz/Documents/XCode\ Programming/sensortag-ios-source-code-example-sensortag-ios-source-code-example/SensorTag_iOS/MQTT/MQTTKit/MQTTKit/MQTTKit-Prefix.pch \
+  /Users/bobbygintz/Documents/XCode\ Programming/sensortag-ios-source-code-example-sensortag-ios-source-code-example/SensorTag_iOS/MQTT/MQTTKit/libmosquitto/messages_mosq.c \
+  libmosquitto/mosquitto_internal.h libmosquitto/config.h \
+  libmosquitto/mosquitto.h libmosquitto/time_mosq.h \
+  libmosquitto/memory_mosq.h libmosquitto/messages_mosq.h \
+  libmosquitto/send_mosq.h
